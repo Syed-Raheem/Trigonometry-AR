@@ -19,9 +19,9 @@ MonoBehaviour:
       m_GuidLow: 5361617267922368776
       m_GuidHigh: 17155368736195299722
     m_SerializedTextureGuid:
-      m_GuidLow: 18137163859981607981
-      m_GuidHigh: 15662059848992648265
-    m_Size: {x: 0.1, y: 0.13333334}
+      m_GuidLow: 17074493426439007298
+      m_GuidHigh: 13798659816040827386
+    m_Size: {x: 0.1, y: 0.11365777}
     m_SpecifySize: 1
     m_Name: HoloMat
     m_Texture: {fileID: 0}
